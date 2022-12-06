@@ -1,3 +1,4 @@
+// Module 7, Yurkina Marya
 #include "Module7.h"
 #include <exception>
 #include <iostream>
